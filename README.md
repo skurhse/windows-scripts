@@ -1,2 +1,2 @@
 # windows-scripts
-development scripts for windows
+Windows 10
